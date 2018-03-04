@@ -1,0 +1,100 @@
+[04.03.2018 20:33:09] main.py:66 INFO - [App] Script went to sleep.
+[04.03.2018 20:34:27] main.py:66 INFO - [App] Script went to sleep.
+[04.03.2018 20:34:34] main.py:66 INFO - [App] Script went to sleep.
+[04.03.2018 20:34:48] main.py:66 INFO - [App] Script went to sleep.
+[04.03.2018 20:37:10] main.py:66 INFO - [App] Script went to sleep.
+[04.03.2018 20:38:28] main.py:66 INFO - [App] Script went to sleep.
+[04.03.2018 20:38:35] main.py:66 INFO - [App] Script went to sleep.
+[04.03.2018 20:38:49] main.py:66 INFO - [App] Script went to sleep.
+[04.03.2018 20:39:30] main.py:70 INFO - [App] Script went to sleep.
+[04.03.2018 20:40:27] main.py:71 INFO - [App] Script went to sleep.
+[04.03.2018 20:41:10] main.py:66 INFO - [App] Script went to sleep.
+[04.03.2018 20:42:30] main.py:66 INFO - [App] Script went to sleep.
+[04.03.2018 20:42:35] main.py:66 INFO - [App] Script went to sleep.
+[04.03.2018 20:42:49] main.py:66 INFO - [App] Script went to sleep.
+[04.03.2018 20:43:32] main.py:70 INFO - [App] Script went to sleep.
+[04.03.2018 20:44:28] main.py:71 INFO - [App] Script went to sleep.
+[04.03.2018 20:45:11] main.py:66 INFO - [App] Script went to sleep.
+[04.03.2018 20:46:30] main.py:66 INFO - [App] Script went to sleep.
+[04.03.2018 20:46:36] main.py:66 INFO - [App] Script went to sleep.
+[04.03.2018 20:46:50] main.py:66 INFO - [App] Script went to sleep.
+[04.03.2018 20:47:32] main.py:70 INFO - [App] Script went to sleep.
+[04.03.2018 20:48:29] main.py:71 INFO - [App] Script went to sleep.
+[04.03.2018 20:49:13] main.py:66 INFO - [App] Script went to sleep.
+[04.03.2018 20:50:31] main.py:66 INFO - [App] Script went to sleep.
+[04.03.2018 20:50:36] main.py:66 INFO - [App] Script went to sleep.
+[04.03.2018 20:50:51] main.py:66 INFO - [App] Script went to sleep.
+[04.03.2018 20:51:38] main.py:70 INFO - [App] Script went to sleep.
+[04.03.2018 20:52:32] main.py:71 INFO - [App] Script went to sleep.
+[04.03.2018 20:53:13] main.py:66 INFO - [App] Script went to sleep.
+[04.03.2018 20:53:23] main.py:70 INFO - [App] Script went to sleep.
+[04.03.2018 20:53:43] main.py:70 INFO - [App] Script went to sleep.
+[04.03.2018 20:54:33] main.py:66 INFO - [App] Script went to sleep.
+[04.03.2018 20:54:37] main.py:66 INFO - [App] Script went to sleep.
+[04.03.2018 20:54:58] main.py:66 INFO - [App] Script went to sleep.
+[04.03.2018 20:55:39] main.py:70 INFO - [App] Script went to sleep.
+[04.03.2018 20:58:12] main.py:75 INFO - [App] Script exited.
+
+[04.03.2018 20:59:47] main.py:75 INFO - [App] Script exited.
+
+[04.03.2018 21:03:22] main.py:75 INFO - [App] Script exited.
+
+[04.03.2018 21:03:42] main.py:75 INFO - [App] Script exited.
+
+[04.03.2018 21:03:54] main.py:75 INFO - [App] Script exited.
+
+[04.03.2018 21:04:34] main.py:75 INFO - [App] Script exited.
+
+[04.03.2018 21:04:50] main.py:75 INFO - [App] Script exited.
+
+[04.03.2018 21:07:40] main.py:80 INFO - [App] Script exited.
+
+[04.03.2018 21:18:39] main.py:70 INFO - [App] Script exited.
+
+[04.03.2018 21:18:55] main.py:70 INFO - [App] Script exited.
+
+[04.03.2018 21:19:23] main.py:70 INFO - [App] Script exited.
+
+[04.03.2018 21:20:17] main.py:71 INFO - [App] Script exited.
+
+[04.03.2018 21:20:50] main.py:71 INFO - [App] Script exited.
+
+[04.03.2018 21:21:05] main.py:71 INFO - [App] Script exited.
+
+[04.03.2018 21:21:25] main.py:71 INFO - [App] Script exited.
+
+[04.03.2018 21:29:34] main.py:68 INFO - [App] Script exited.
+
+[04.03.2018 21:30:04] main.py:68 INFO - [App] Script exited.
+
+[04.03.2018 21:30:25] main.py:68 INFO - [App] Script exited.
+
+[04.03.2018 21:30:38] main.py:68 INFO - [App] Script exited.
+
+[04.03.2018 21:33:03] main.py:68 INFO - [App] Script exited.
+
+[04.03.2018 21:34:27] main.py:68 INFO - [App] Script exited.
+
+[04.03.2018 21:37:21] main.py:68 INFO - [App] Script exited.
+
+[04.03.2018 21:37:39] main.py:68 INFO - [App] Script exited.
+
+[04.03.2018 21:40:41] main.py:68 INFO - [App] Script exited.
+
+[04.03.2018 21:41:32] main.py:68 INFO - [App] Script exited.
+
+[04.03.2018 21:52:47] main.py:49 INFO - Запуск Получения новых постов
+[04.03.2018 21:52:47] main.py:55 INFO - Последней ID поста = 449313
+[04.03.2018 21:53:12] main.py:69 ERROR - Exception of type AttributeError in get_data(): module 'config' has no attribute 'USERSIDE_FILE_NAME'
+[04.03.2018 21:53:12] main.py:70 INFO - Завершение проверки новых постов
+[04.03.2018 21:53:12] main.py:91 INFO - [App] Script exited.
+
+[04.03.2018 21:54:43] main.py:49 INFO - Запуск Получения новых постов
+[04.03.2018 21:54:43] main.py:55 INFO - Последней ID поста = 449313
+[04.03.2018 21:55:06] main.py:69 ERROR - Exception of type TypeError in get_data(): list indices must be integers or slices, not str
+[04.03.2018 21:55:06] main.py:70 INFO - Завершение проверки новых постов
+[04.03.2018 21:55:06] main.py:91 INFO - [App] Script exited.
+
+[04.03.2018 21:56:16] main.py:49 INFO - Запуск Получения новых постов
+[04.03.2018 21:56:55] main.py:49 INFO - Запуск Получения новых постов
+[04.03.2018 21:56:55] main.py:55 INFO - Последней ID поста = 449313
